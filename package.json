@@ -1,0 +1,13 @@
+{    
+    "name": "wsb99196",  
+"version": "1.0.0",  
+"description": "zaliczenie WSB",  
+"repository": "sebastiansroka99196",  
+"main": "index.js",  
+"keywords": [    
+    "WSB",    
+    "npm",    
+    "package",    
+    "exam"      
+    ]    
+}
